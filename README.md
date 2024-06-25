@@ -2,7 +2,9 @@
 
 🌐 Hi, I'm Changwhi Oh, a BCIT CST graduate.
 
-💼 How are you?
+💾 https://changwhi.xyz ⬅️ This is my portfolio website.
+🚽 https://washroomfinder.info ⬅️ This is my project that helps you find public washrooms in Vancvouer!
+❤️ https://project.changwhi.xyz ⬅️ The MERN porject allows users to upload text and pictures and chat with your friend.
 
 ## 🛠️ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +31,6 @@
 
 ## 🛠️ CI/CD and Tools:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker_compose-4099FF?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Hub](https://img.shields.io/badge/docker_hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-0068E2?style=for-the-badge&logo=lucidchart&logoColor=white) (ERD)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-0068E2?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ## 📈 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Changwhi&style=for-the-badge)
