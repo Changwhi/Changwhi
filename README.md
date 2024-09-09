@@ -2,16 +2,16 @@
 
 🌐 Hi, I'm Changwhi Oh, a BCIT CST graduate.
 
-💾 https://changwhi.xyz\
+💾 https://changwhi.xyz  
 ⬆️ This is my portfolio website.
 
-🤖 https://ai-mock-interview-navy.vercel.app/ \
+🤖 https://ai-mock-interview-navy.vercel.app/  
 ⬆️ An app for practicing interviews with AI, offering feedback, and proper answers to enhance your interview skills.
 
-🚽 https://washroomfinder.info \
+🚽 https://washroomfinder.info  
 ⬆️ An application that helps you find public washrooms in Vancvouer!
 
-❤️ https://project.changwhi.xyz\
+❤️ https://project.changwhi.xyz  
 ⬆️The MERN porject allows users to upload text and pictures and chat with your friend.
 
 
