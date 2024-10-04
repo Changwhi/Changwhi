@@ -10,27 +10,45 @@ I'm a recent graduate of BCIT's Computer Systems Technology program, specializin
 
 ## Projects
 
-### [AI Mock Interview](https://ai-mock-interview-navy.vercel.app/)
-- **GitHub**: [AI Mock Interview Repo](https://github.com/Changwhi/AI-mock-interview)  
-- An AI-powered app for practicing interviews, providing feedback, and offering suggestions to improve your interview skills.
+### [Group Study Management Dashboard](https://kdd-leetcode-project01.vercel.app/)
+- **GitHub**: [Group Study Repo](https://github.com/Changwhi/kdd-leetcode-project01)  
+- Developed a web app for the Korean Developer Community in Vancouver to efficiently manage group study activities. Designed the database and implemented backend logic to handle records across multiple tables, providing a more organized and streamlined solution for the community.
+- **Technologies**: Next.js, PostgreSQL, TypeScript, Tailwind CSS, Git, GitHub Actions
 
 ---
 
-### [Washroom Finder](https://washroomfinder.info)
-- **GitHub**: [RestStop Vancity Repo](https://github.com/Changwhi/RestStop_Vancity_Project)  
-- This application helps you locate public washrooms in Vancouver.
+### [Post & Chat](https://socialwithchat.onrender.com/)
+- **GitHub**: [Post & Chat Repo](https://github.com/Changwhi/SocialWithChat)  
+- A social media platform featuring real-time chat, allowing users to post pictures and text, and interact through replies. Built a robust and scalable application with the MERN stack and Socket.IO for real-time chat. Used Cloudinary to optimize image storage. Configured a RESTful API for user data and conversations. Managed JWT authentication.
+- **Technologies**: MongoDB, Express.js, React.js, Node.js, Socket.io, Cloudinary
 
 ---
 
-### [Social With Chat](https://socialwithchat.onrender.com/chat)
-- **GitHub**: [Social With Chat Repo](https://github.com/Changwhi/SocialWithChat)  
-- A MERN project that allows users to upload text, pictures, and chat with friends.
+### [AI Interview Coach](https://ai-mock-interview-navy.vercel.app/)
+- **GitHub**: [AI Interview Coach Repo](https://github.com/Changwhi/AI-mock-interview)  
+- An app for practicing technical interviews with AI, offering feedback, and providing suggested answers to help improve your interview skills.
+- **Technologies**: Next.js, PostgreSQL, Gemini API, Git
 
 ---
 
-### [KDD Leetcode Project](https://kdd-leetcode-project01.vercel.app/)
-- **GitHub**: [KDD Leetcode Repo](https://github.com/Changwhi/kdd-leetcode-project01)  
-- A platform providing tools for creating and managing study groups to help participants stay accountable.
+### [Tech Venue Finder](https://techvenuesvancouver.vercel.app/)
+- **GitHub**: [Tech Venue Finder Repo](https://devpost.com/software/tech-venue-finder)  
+- A platform that simplifies the process of finding and booking accessible venues for tech events in Vancouver. Event organizers can find venues based on capacity, location, amenities, and accessibility features.
+- **Technologies**: Next.js, TypeScript, PostgreSQL, Prisma, Supabase, Tailwind CSS, Node.js, Vercel
+
+---
+
+### [Washroom Finder](https://washroomfinder.info/)
+- **GitHub**: [Washroom Finder Repo](https://github.com/Changwhi/RestStop_Vancity)  
+- A web app to find public washrooms in Metro Vancouver, inspired by personal experience and a desire to help others. Utilizes Google Maps for map UI and is deployed on AWS EC2 for scalability and reliability.
+- **Technologies**: AWS EC2, Cloudflare, Next.js, Tailwind CSS, TypeScript, Docker, MySQL, GitHub Actions
+
+---
+
+### [AI Interview Hackathon Project](https://www.youtube.com/watch?v=IHdCtpWrdeQ)
+- **GitHub**: [AI Interview Hackathon Repo](https://github.com/Changwhi/Drinking-Wine---Hackathon)  
+- An AI-powered interview app that allows users to practice interviews and addresses job security concerns.
+- **Technologies**: Python, Django, Firebase, OpenAI, React, Git
 
 ---
 
